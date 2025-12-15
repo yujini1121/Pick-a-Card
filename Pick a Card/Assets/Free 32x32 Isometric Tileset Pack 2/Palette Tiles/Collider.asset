@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Water_114
+  m_Name: Collider
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1475031464, guid: 7e227ec21f77a3041ae84c71659c7247, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 10bc20a5e5ae98947b750e1aea55e483, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
